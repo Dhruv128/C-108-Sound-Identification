@@ -1,0 +1,35 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: bisque;
+}
+.header_div{
+    color: red;
+    background-color: yellow;
+}
+.header_div p{
+font-family:Georgia, 'Times New Roman', Times, serif;
+color: orangered;
+letter-spacing: 2px;
+font-weight: bolder;
+font-size: medium;
+}
+.main_div button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    margin-top: 30px;
+    width: 150px;
+}
+.copyright_footer{
+    position: fixed;
+    bottom:0;
+    background-color: red;
+    color: wheat;
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+    height: 5%;
+    margin-top: 1000px;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
